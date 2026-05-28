@@ -83,4 +83,4 @@ Los resultados mostraron errores bajos tanto en entrenamiento como en test, indi
 
 El informe completo del trabajo práctico se encuentra en el archivo adjunto:
 
-**[Informe_TP1.pdf](./TP%20N°1_Perceptrón_Simple.pdf)**
+**[Informe_TP1.pdf](./TP%20N°1%20_Perceptrón_Simple.pdf)**
