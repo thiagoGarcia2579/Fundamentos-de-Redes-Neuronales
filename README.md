@@ -6,7 +6,7 @@ Repositorio con trabajos prácticos y ejercicios relacionados con redes neuronal
 
 ## Trabajos Prácticos
 
-* [TP1 - Perceptrón Simple](./TP1-Perceptrón%20Simple)
+* [TP1 - Perceptrón Simple](./TP1%20-%20Perceptrón%20Simple)
 
-* [TP2 - Perceptrón Multicapa](./TP2-Perceptrón%20Multicapa)
+* [TP2 - Perceptrón Multicapa](./TP2%20-%20Perceptrón%20Multicapa)
 
