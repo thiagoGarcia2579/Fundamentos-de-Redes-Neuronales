@@ -47,8 +47,3 @@ Durante el desarrollo se aplicaron conceptos de:
 - Ajuste de hiperparámetros.
 - Entrenamiento y evaluación de modelos de Deep Learning.
 
-## Autor
-
-Thiago Garcia
-
-Licenciatura en Informática - Universidad Nacional de Hurlingham
