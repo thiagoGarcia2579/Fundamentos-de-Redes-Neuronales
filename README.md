@@ -1,4 +1,4 @@
-# Redes Neuronales
+# Fundamentos de Redes Neuronales
 
 Repositorio con trabajos prácticos y ejercicios relacionados con redes neuronales artificiales y fundamentos de Machine Learning implementados en Python.
 
