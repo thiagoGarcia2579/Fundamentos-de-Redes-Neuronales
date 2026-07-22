@@ -65,11 +65,3 @@ Luego del entrenamiento, se agregaron alteraciones aleatorias en los píxeles de
 * Generalización
 * Aprendizaje supervisado
 * Machine Learning
-
----
-
-## Informe
-
-El informe completo del trabajo práctico se encuentra en el archivo adjunto:
-
-**[Informe_TP2.pdf](./Informe_TP2.pdf)**
