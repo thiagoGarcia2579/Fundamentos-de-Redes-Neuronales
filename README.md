@@ -12,3 +12,5 @@ Repositorio con trabajos prácticos y ejercicios relacionados con redes neuronal
 
 * [TP3 - Autocodificadores](./TP3%20-%20Autocodificadores)
 
+* [TP4 - Convolucionales](./TP4%20-%20Convolucionales)
+
