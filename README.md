@@ -10,3 +10,5 @@ Repositorio con trabajos prácticos y ejercicios relacionados con redes neuronal
 
 * [TP2 - Perceptrón Multicapa](./TP2%20-%20Perceptrón%20Multicapa)
 
+* [TP3 - Autocodificadores](./TP3%20-%20Autocodificadores)
+
